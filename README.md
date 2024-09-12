@@ -1,8 +1,8 @@
 # nlw-Rocketseat-iniciante
 
-# Meta do curso - criar um app proposto
+## Meta do curso - criar um app proposto
 
-## Lista de a afazeres do app
+### Lista de a afazeres do app
 
 - Criar metas
 - Listar metas
