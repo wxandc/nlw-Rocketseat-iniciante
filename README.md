@@ -2,12 +2,12 @@
 
 ## Meta do curso - criar um app proposto
 
-### Lista de a afazeres do app
+### Lista de a afazeres ( TO DO ) do app
 
 - Criar metas
 - Listar metas
-  - Metas Realizadas
-  - Metas Abertas 
+    - Metas realizadas
+    - Metas abertas
 - Marcar/Desmarcar mmetas realizadas
 - Remover metas
 - Sistema de mensagem
